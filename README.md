@@ -1,6 +1,6 @@
 - 👋 There once was a person named Me
 - 👀 In the land of the hills and the trees
-- 🌱 I’m currently learning
+- 🌱 I’m currently doing
 - 💞️ Some coding and turning
 - 📫 My work into repositories! :)
 
